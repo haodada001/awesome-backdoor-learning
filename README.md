@@ -38,13 +38,10 @@ Papers are sorted by their uploaded dates in descending order.
 
 ## Defense
 
-| Year | Title                                                        | Venue | Target Task | Paper                                                        | Code |      |
-| ---- | ------------------------------------------------------------ | ----- | ----------- | ------------------------------------------------------------ | ---- | ---- |
-| 2021 | **Black-box Detection of Backdoor Attacks with Limited Information and Data** | ICCV  |             | [Link](https://arxiv.org/abs/2103.13127)                     |      |      |
-| 2021 | **CLEAR: Clean-up Sample-Targeted Backdoor in Neural Networks** | ICCV  |             | [Link](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_CLEAR_Clean-Up_Sample-Targeted_Backdoor_in_Neural_Networks_ICCV_2021_paper.pdf) |      |      |
-| 2021 |                                                              |       |             |                                                              |      |      |
-| 2021 |                                                              |       |             |                                                              |      |      |
-| 2021 |                                                              |       |             |                                                              |      |      |
+| Year | Title                                                        | Venue | Target Task | Paper                                                        | Code |
+| ---- | ------------------------------------------------------------ | ----- | ----------- | ------------------------------------------------------------ | ---- |
+| 2021 | **Black-box Detection of Backdoor Attacks with Limited Information and Data** | ICCV  |             | [Link](https://arxiv.org/abs/2103.13127)                     |      |
+| 2021 | **CLEAR: Clean-up Sample-Targeted Backdoor in Neural Networks** | ICCV  |             | [Link](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_CLEAR_Clean-Up_Sample-Targeted_Backdoor_in_Neural_Networks_ICCV_2021_paper.pdf) |      |
 
 ## Toolbox
 
